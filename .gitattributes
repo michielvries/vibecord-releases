@@ -1,0 +1,2 @@
+# Signed statements are verified byte-for-byte: never convert line endings.
+* -text
