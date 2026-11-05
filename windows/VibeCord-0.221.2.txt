@@ -1,0 +1,9 @@
+vibecord-release-statement-v1
+platform: windows
+version: 0.221.2
+file: VibeCord Setup 0.221.2.exe
+size: 145438543
+sha256: f97fe580dae552b1d79bfe5ea035a95182379a44b9f0f8385192a3a4a43d6cca
+sha512: c5d53a6b2fbd903903bd6b65db71c51f1627a9d48a3bd32526a6c77a3580f09aa71bceb9e1fc3058411053f9b309037f579528a600803686e92f728952013e15
+update-feed-key: b6d55b58b7a18611
+signed-by: b6d55b58b7a18611
