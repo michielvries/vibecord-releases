@@ -1,0 +1,8 @@
+vibecord-release-statement-v1
+platform: android
+version: 0.5.3
+file: VibeCord-0.5.3.apk
+size: 111408709
+sha256: 92d2a0154447f836a8ec13d81625079c44bb7addac1814e60b3ca1aaf5547f44
+signing-certificate-sha256: 4526191c3a4bd072746ee35d4a23f8bb2503a6d187ef4448c5d076fcff99d55d
+signed-by: b6d55b58b7a18611
